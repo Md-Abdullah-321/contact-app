@@ -16,15 +16,6 @@ This markdown file presents an exciting Dynamic Contact Web App, which allows yo
 
 - **Real-time Updates:** Any changes made to your contacts are immediately reflected, keeping data up-to-date. :arrows_counterclockwise:
 
-## Emojis Guide :information_source:
-
-- :sparkles: : Highlights exciting and attention-grabbing features.
-- :star2: : Indicates the main features of the app.
-- :busts_in_silhouette: : Represents the dynamic contact management feature.
-- :mag_right: : Signifies the availability of multiple filters for efficient contact sorting.
-- :art: : Emphasizes the app's visually appealing and interactive user interface.
-- :iphone: : Denotes the responsive design, ensuring accessibility on all devices.
-- :arrows_counterclockwise: : Illustrates the real-time updates feature.
 
 ## Technologies Used :computer:
 
